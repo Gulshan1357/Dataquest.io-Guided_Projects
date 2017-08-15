@@ -1,1 +1,1 @@
-# Dataquies.io-Guided Projects
+# Dataquest.io-Guided Projects
