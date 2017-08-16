@@ -8,4 +8,8 @@ Used list comprehensions, modules, and the datetime package to find patterns in 
 ### Guided Project: Analyzing Thanksgiving Dinner
 Used the pandas package to analyze what Americans eat for Thanksgiving dinner.
 
+### Guided Project: Visualizing Earnings Based On College Majors
+Learned how to use pandas to quickly create visualizations.
+
+
 
